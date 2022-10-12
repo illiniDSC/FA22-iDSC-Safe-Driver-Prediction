@@ -4,6 +4,7 @@
 <img src=pic/porto_logo.png width='800' />
 </div>
 
+- Copyright: All rights reserved by iSchool Data Science Club
 - A project to predict the probability of initiating claims based on high-dimensional non-explicit characteristics of drivers, initiated by the largest insurance company in Brazil.
 
 - 👍[Kaggle link🔗](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
